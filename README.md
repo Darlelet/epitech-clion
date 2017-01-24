@@ -6,3 +6,5 @@ This CLion configuration is made to be as compliant as possible with the Epitech
 - The header is semi-hard coded since there isn't a "PATH" variable and the last modified field isn't updated. (but it shouldn't affect the norm)
 
 If you have any suggestion please let me know.
+
+### Just to let you know: the whole project is hardcoded.
